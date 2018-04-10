@@ -7,5 +7,6 @@ void main()
 	scanf("%d %d\n",&a,&b);
 	printf("hello world 1");
 	printf("hello %s", "chengzhi");
+  edit in iPad
 	
 }
